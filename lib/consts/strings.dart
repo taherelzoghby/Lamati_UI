@@ -1,0 +1,95 @@
+class Strings {
+  static const String appTitle = 'لمعتي';
+  static const String fontFamily = 'Tajawal';
+  static const String icon = 'icon';
+  static const String label = 'label';
+  static const String onBoardLabel1 = 'رعايه حقيقيه ونتائج موثوقة';
+  static const String onBoardLabel2 = 'نحن نهتم بمركبتك قدر اهتمامك';
+  static const String onBoardLabel3 = 'توفر المعدات الدقيقه نتائج مثاليه';
+  static const String start = 'ابدء الأن';
+  static const String previous = ' السابق';
+  static const String next = 'التالي';
+  static const String display = 'ابداء';
+  static const String successChangedLabel = 'تم تغيير كلمة المرور بنجاح';
+  static const String loginLabel = 'تسجيل الدخول';
+  static const String confirmCode = 'رمز التاكيد';
+  static const String enterConfirmCode = 'الرجاء ادخال رمز التأكيد';
+  static const String sure = 'تأكيد';
+  static const String codeDontArive = 'لم يتم ارسال الرمز؟';
+  static const String newSend = 'ارسال جديد';
+  static const String forgetPasswordLabel = 'نسيت كلمة المرور؟';
+  static const String hintPageForgetPassword =
+      "ادخل عنوان بريدك الالكتروني ادناه وسنرسل لك ايضا لاعادة تعيين كلمة المرور ";
+  static const String email = 'البريد الالكتروني';
+  static const String send = 'ارسال';
+  static const String haveAccount = 'لديك حساب؟';
+  static const String hintPageForgetPassword2 =
+      "يجب ان تتكون كلمة المرور من 8 احرف علي الاقل.تذكر انه لا يوصي باعادة استخدام اسماء المسنخدمين وكلمات المرور لخدمات ومواقع الويب المختلفه.";
+  static const String newPassword = 'كلمة المرور الجديده';
+  static const String othernewPassword = 'كلمة المرور مره اخري';
+  static const String change = 'تغير';
+  static const String newComing = '! مرحبا بك مجددا ';
+  static const String password = 'كلمة المرور';
+  static const String enter = 'دخول';
+  static const String newAccount = 'حساب جديد';
+  static const String newLogin = 'تسجيل جديد';
+  static const String notHaveAccount = 'ليس لديك حساب؟';
+  static const String name = "الاسم";
+  static const String phone = 'رقم الهاتف';
+  static const String women = 'انثي';
+  static const String men = 'ذكر';
+  static const String surePassword = 'تأكيد كلمة المرور';
+  static const String acceptTerms = 'موافق علي الشروط و الاحكام';
+  static const String update = 'تحديث';
+  static const String mainServices = 'خدمات رئيسيه';
+  static const String details = 'التفاصيل';
+  static const String time = 'الساعه';
+  static const String date = 'التاريخ';
+  static const String total = 'المبلغ الاجمالي';
+  static const String continueLabel = 'استمرار';
+  static const String addNotes = 'اضافة ملاحظات';
+  static const String carServices = 'خدمات السياره';
+  static const String carType = " : نوع المركبه";
+  static const String carModel = " : موديل المركبه";
+  static const String carColor = " : لون المركبه";
+  static const String total1 = 'المبلغ';
+  static const String services = 'الخدمات';
+  static const String normalWashing = 'غسيل عادي';
+  static const String perfume = 'عطر فواحه';
+  static const String valueAdded = 'ضريبة القيمة المضافه';
+  static const String back = 'رجوع';
+  static const String hintBack = 'عند الرجوع سوف تفقد مقعدك الحالي';
+  static const String thankYou = 'شكرا لك';
+  static const String reservationSure = 'تم تأكيد الحجز';
+  static const String done = "تم";
+  static const String addVechile = 'اضف مركبه';
+  static const String hintAddVechile =
+      'الرجاء اضافة مركبه واحده علي الاقل مواصلة عملية الحجز';
+  static const String addNow = 'اضافة الان';
+  static const String reserveNow = 'احجز الان';
+  static const String searchAboutPosition = 'ابحث عن موقعك';
+  static const String newVechile = 'مركبة جديدة';
+  static const String vechileMarka = 'ماركة المركبه';
+  static const String addPhotoOptional = 'اضافة صوره للمركبه (اختياري)';
+  static const String phoneOptional = 'رقم الهاتف (اختياري)';
+  static const String add = 'اضافة';
+  static const String noReservation = 'عفوا لا يوجد حجوزات حاليه';
+  static const String reservations = 'الحجوزات';
+  static const String current = 'الحاليه';
+  static const String myVechiles = 'مركباتي';
+  static const String emptyString = '';
+  static const String profile = 'الملف الشخصي';
+  static const String myWallet = 'محفظتي';
+  static const String settings = 'الاعدادت';
+
+  static const String privacy = 'الخصوصيه والامان';
+
+  static const String notifications = 'الاشعارات';
+  static const String help = 'مساعدة';
+
+  static const String terms = 'الشروط والاحكام';
+  static const String exit = ' خروج';
+  static const String wallet = 'المحفظه';
+  static const String freePrice = 'الرصيد المتاح';
+  static const String notifi1 = 'اشعار 1';
+}
